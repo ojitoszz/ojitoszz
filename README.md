@@ -1,5 +1,3 @@
-# ojitoszz-
-
 # Hola, soy Uriel Arias   | Arquitecto de Software y Tech Lead
 <!--
 <a href="URL_DE_TU_LINKEDIN" target="_blank">
