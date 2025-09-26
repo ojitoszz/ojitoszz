@@ -1,6 +1,6 @@
 # ojitoszz-
 
-# Hola, soy Joel Arias Reyes 👋 | Arquitecto de Software y Tech Lead
+# Hola, soy Uriel Arias   | Arquitecto de Software y Tech Lead
 <!--
 <a href="URL_DE_TU_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,7 +13,7 @@
 
 Apasionado por diseñar y construir soluciones de software escalables, seguras y de alto rendimiento. Con experiencia en la creación de arquitecturas de microservicios, liderazgo de equipos técnicos y despliegue de infraestructura en entornos híbridos.
 
-### 🛠️ Mi Stack Tecnológico
+###  Mi Stack Tecnológico
 
 **Lenguajes y Frameworks:**
 <p>
@@ -45,7 +45,7 @@ Apasionado por diseñar y construir soluciones de software escalables, seguras y
 
 ---
 
-### 🚀 Mis Proyectos Destacados (Casos de Estudio)
+###  Mis Proyectos Destacados (Casos de Estudio)
 
 Aquí documento la arquitectura, requerimientos y soluciones de mis proyectos más relevantes.
 <!--
